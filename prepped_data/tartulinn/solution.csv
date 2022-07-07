@@ -1,92 +1,89 @@
-id,objects
-img6.jpg,"['tartu airport', 'building', 'people', 'suitcase', 'tree']"
-img7.jpg,"['building', 'people', 'suitcase', 'tree', 'snow']"
-img11.jpg,"['person', 'snow', 'shovel', 'winter', 'cars']"
-img13.jpg,"['building', 'black garbage can', 'person', 'blue garbage truck']"
-img15.jpg,"['green garbage can', 'leafs', 'pole', 'road', 'grass']"
-img22.jpg,"['stairs', 'stair railings', 'stone road', 'trees', 'grass', 'building', 'lamp posts']"
-img28.jpg,"['dog', 'stone road']"
-img30.jpg,"['dog', 'people', 'stools', 'bushes', 'building']"
-img31.jpg,"['dog', 'fire', 'stone road']"
-img32.jpg,"['dogs', 'rope', 'stone']"
-img36.jpg,"['cat', 'statues', 'stone road', 'trees']"
-img37.jpg,"['cat', 'railing', 'yellow leafs', 'trees']"
-img40.jpg,"['crosswalk', 'traffic sign', 'bicycle', 'person', 'trees', 'stone wall', 'pavement']"
-img45.jpg,"['traffic sign', 'people', 'trees', 'building', 'child', 'skateboard', 'road', 'grass', 'sunglasses', 'flagchain']"
-img46.jpg,"['leaves', 'trees', 'road', 'cars', 'traffic', 'building', 'busstop', 'lamp posts', 'bench']"
-img48.jpg,"['building', 'traffic', 'cars', 'traffic sign', 'people', 'screen', 'signs', 'road', 'cloudy', 'traffic light']"
-img49.jpg,"['traffic sign', 'traffic light', 'cars', 'people', 'crossroad', 'garbage cans', 'bag', 'cloudy', 'trees']"
-img54.jpg,"['blue electric bus', 'red busses', 'building', 'cloudy', 'daylight']"
-img57.jpg,"['human', 'bus card validator', 'mobile phone', 'red bus seats', 'yellow posts', 'bright lighting']"
-img60.jpg,"['snow', 'stairs', 'chain light', 'slide', 'people', 'winter', 'tree', 'snow city']"
-img63.jpg,"['trees', 'snow', 'winter', 'chain light', 'snowcity', 'sign', 'snowblocks']"
-img64.jpg,"['snow', 'trees', 'lamp post', 'snow statue']"
-img68.jpg,"['aero photography', 'drone photography', 'houses', 'people', 'trees', 'tents']"
-img69.jpg,"['aero photography', 'drone photography', 'houses', 'town hall of tartu', 'people', 'stage', 'cars', 'trees', 'tents']"
-img70.jpg,"['aero photography', 'drone photography', 'houses', 'people', 'tents', 'cars', 'streets', 'park', 'trees', 'greenery']"
-img78.jpg,"['goats', 'grass']"
-img81.jpg,"['turkey', 'bird', 'grass']"
-img83.jpg,"['people', 'street', 'cars', 'buildings', 'nature', 'trees']"
-img85.jpg,"['flowers', 'couple', 'hands', 'people', 'wedding']"
-img87.jpg,"['rings', 'hands', 'box', 'wedding', 'suit']"
-img93.jpg,"['flowers', 'roses']"
-img95.jpg,"['fireworks', 'people', 'stage', 'evening']"
-img96.jpg,"['fireworks', 'people', 'town hall of tartu', 'stage']"
-img98.jpg,"['flags', 'town hall of tartu', 'people', 'estonian flag']"
-img99.jpg,"['flags', 'town hall of tartu', 'estonian flag']"
-img111.jpg,"['flowers', 'nature', 'people', 'hammock', 'blossoms']"
-img112.jpg,"['shelf', 'plants', 'boxes']"
-img114.jpg,"['flowers', 'leaves', 'blossoms']"
-img115.jpg,"['snow', 'blue sky', 'clouds', 'trees']"
-img117.jpg,"['water', 'children', 'pool noodle']"
-img118.jpg,"['pool', 'stone path', 'ladder']"
-img121.jpg,"['grass', 'water', 'beach', 'sand', 'trees', 'playground', 'cloudy', 'sunny', 'people']"
-img124.jpg,"['sand', 'water', 'trees', 'people', 'clouds', 'sunny']"
-img127.jpg,"['water', 'people', 'grass', 'beach']"
-img131.jpg,"['people', 'glasses', 'food', 'plate', 'table']"
-img137.jpg,"['trees', 'park', 'snow', 'stump', 'cut log']"
-img142.jpg,"['sand', 'trees', 'people', 'outdoor gym', 'changing room', 'wood bench']"
-img149.jpg,"['road', 'pavement', 'buildings', 'trees', 'traffic signs', 'lamp posts']"
-img156.jpg,"['building', 'metal fence', 'person', 'bicycle', 'road']"
-img163.jpg,"['barge', 'emajõe-peipsi barge jõmmu', 'water', 'people', 'sail', 'clouds']"
-img164.jpg,"['barge', 'emajõe-peipsi barge jõmmu', 'water', 'people', 'sail']"
-img169.jpg,"['people', 'trees', 'table', 'rackets', 'clouds', 'building', 'stone road']"
-img170.jpg,"['people', 'trees', 'table', 'rackets', 'ball', 'building', 'stone road']"
-img174.jpg,"['people', 'snow', 'trees']"
-img177.jpg,"['people', 'stroller', 'trees', 'snow', 'fence', 'buildings']"
-img180.jpg,"['people', 'trees', 'bench', 'cars', 'building', 'grass']"
-img185.jpg,"['bridge', 'trees', 'people', 'road', 'cars', 'buildings', 'estonian flag']"
-img188.jpg,"['bridge', 'water', 'blue sky', 'trees']"
-img194.jpg,"['grass', 'playground', 'children', 'swing', 'people']"
-img197.jpg,"['railroad', 'road', 'people', 'bicycle', 'nature']"
-img199.jpg,"['railroad', 'grass']"
-img201.jpg,"['water', 'trees', 'nature', 'clouds']"
-img202.jpg,"['water', 'trees', 'grass', 'boats', 'people', 'bridge']"
-img203.jpg,"['water', 'buildings', 'trees', 'canoes', 'fences']"
-img205.jpg,"['water', 'stones', 'grass', 'people']"
-img215.jpg,"['people', 'children', 'benches', 'trash bins', 'trees', 'yellow leaves', 'autumn', 'pavement']"
-img217.jpg,"['benches', 'yellow leaves', 'autumn']"
-img218.jpg,"['yellow leaves', 'person', 'bench', 'trees', 'autumn']"
-img223.jpg,"['roof', 'ukrainian flag']"
-img227.jpg,"['green lazer', 'trees', 'building']"
-img233.jpg,"['tractor', 'snow', 'building', 'cars', 'trees']"
-img234.jpg,"['tractor', 'snow', 'street', 'building', 'cars', 'trees', 'person']"
-img239.jpg,"['water', 'nature', 'people', 'canoes', 'trees', 'grass']"
-img240.jpg,"['people', 'trees', 'stroller']"
-img241.jpg,"['people', 'trees', 'tents', 'cloudy sky']"
-img246.jpg,"['trees', 'people', 'pictures', 'bicycles']"
-img254.jpg,"['graffiti', 'wall', 'faces', 'grass', 'sky']"
-img255.jpg,"['graffiti', 'wall', 'person']"
-img260.jpg,['books']
-img262.jpg,"['hammoc', 'person', 'book', 'reading']"
-img263.jpg,"['chair', 'person', 'woman', 'book', 'reading', 'camera']"
-img264.jpg,"['bench', 'person', 'man', 'book', 'rading', 'leaves']"
-img266.jpg,"['church', 'pauluse church', 'building', 'tower', 'sky', 'trees']"
-img267.jpg,"['church', 'pauluse church', 'drone photography', 'buildings', 'city view', 'trees', 'steets', 'cars']"
-img268.jpg,"['church', 'pauluse church', 'tower', 'building', 'trees', 'street', 'night', 'lights']"
-img271.jpg,"['hand', 'notes', 'paper', 'cup', 'writing', 'pencil']"
-img273.jpg,"['people', 'chair', 'light', 'big room', 'stage']"
-img279.jpg,"['snow', 'snowy trees', 'trees']"
-img284.jpg,"['urmas klaas', 'man', 'suit', 'tie', 'person', 'human', 'a man in a suit']"
-img290.jpg,"['people', 'dog', 'road', 'pavement', 'bicycle', 'backback', 'chair']"
-img295.jpg,"['the sculpture of kissing students', 'building', 'water', 'fountain']"
+image_id,labels
+img1.jpg,lab0 lab18 lab4 lab67 lab71 lab84
+img101.jpg,lab0 lab24 lab25 lab39 lab40 lab5
+img102.jpg,lab0 lab17 lab24 lab25 lab39 lab40 lab5
+img105.jpg,lab54
+img107.jpg,lab18 lab4
+img110.jpg,lab10 lab6
+img113.jpg,lab10 lab41
+img115.jpg,lab1 lab17 lab34 lab4
+img122.jpg,lab0 lab1 lab17 lab23 lab31 lab33 lab6
+img124.jpg,lab0 lab1 lab17 lab23 lab31 lab6
+img125.jpg,lab0 lab1 lab17 lab23 lab33 lab45 lab6
+img126.jpg,lab0 lab10 lab6
+img130.jpg,lab44 lab8
+img132.jpg,lab44 lab8
+img136.jpg,lab44 lab75 lab80
+img137.jpg,lab1 lab4 lab60
+img139.jpg,lab1 lab4 lab60
+img142.jpg,lab0 lab1 lab23 lab74
+img144.jpg,lab0 lab1 lab3
+img150.jpg,lab13 lab51 lab8
+img158.jpg,lab0 lab35 lab36 lab6
+img159.jpg,lab0 lab35 lab36 lab6
+img162.jpg,lab1 lab20 lab35 lab36 lab53 lab6 lab9
+img163.jpg,lab0 lab17 lab35 lab36 lab6
+img164.jpg,lab0 lab35 lab36 lab6
+img168.jpg,lab0 lab1 lab21 lab3 lab76
+img170.jpg,lab0 lab1 lab21 lab3 lab76
+img176.jpg,lab0 lab1 lab4 lab5
+img179.jpg,lab0 lab1 lab28 lab5
+img181.jpg,lab0 lab1 lab14 lab17 lab2 lab3 lab83
+img182.jpg,lab0 lab1 lab17 lab5
+img183.jpg,lab10 lab20
+img186.jpg,lab1 lab20 lab38 lab46 lab5 lab51 lab7
+img188.jpg,lab1 lab20 lab34 lab6
+img19.jpg,lab1 lab14 lab16 lab2 lab21
+img194.jpg,lab0 lab2 lab32 lab33
+img202.jpg,lab0 lab1 lab2 lab20 lab6
+img206.jpg,lab0 lab1 lab12 lab2 lab53
+img209.jpg,lab0 lab1 lab10 lab2 lab3 lab83
+img211.jpg,lab1 lab12 lab2 lab5 lab50
+img226.jpg,lab1 lab14 lab16 lab60 lab87
+img227.jpg,lab1 lab3
+img228.jpg,lab1 lab19 lab22 lab3 lab4 lab47 lab57
+img230.jpg,lab19 lab22 lab3 lab4 lab47 lab57 lab9
+img233.jpg,lab1 lab3 lab4 lab47 lab9
+img247.jpg,lab1 lab13 lab2 lab5 lab6
+img249.jpg,lab2 lab27 lab29
+img25.jpg,lab1 lab16 lab2 lab3 lab45 lab66 lab7
+img251.jpg,lab15 lab2 lab27 lab29
+img256.jpg,lab16 lab19 lab22 lab27 lab90
+img258.jpg,lab27 lab29
+img259.jpg,lab3 lab8 lab91
+img261.jpg,lab85
+img263.jpg,lab62 lab8 lab91
+img264.jpg,lab28 lab65 lab8 lab82 lab91
+img269.jpg,lab0 lab62
+img27.jpg,lab11 lab14 lab2 lab26 lab5 lab50
+img278.jpg,lab0 lab12 lab3 lab35 lab36 lab37 lab87
+img279.jpg,lab1 lab4
+img28.jpg,lab21 lab41
+img281.jpg,lab24 lab37 lab4 lab8
+img284.jpg,lab61 lab73 lab8 lab82
+img285.jpg,lab0 lab32
+img287.jpg,lab23
+img30.jpg,lab0 lab3 lab41 lab43
+img300.jpg,lab17 lab3 lab30 lab56 lab6
+img33.jpg,lab0 lab1 lab2 lab41
+img36.jpg,lab1 lab21 lab64
+img37.jpg,lab1 lab64
+img39.jpg,lab3 lab64 lab8
+img42.jpg,lab19 lab26
+img44.jpg,lab19 lab46
+img47.jpg,lab0 lab19 lab3 lab42 lab58 lab7 lab9
+img48.jpg,lab0 lab19 lab3 lab42 lab58 lab7 lab9
+img52.jpg,lab1 lab13 lab14 lab31 lab49 lab5 lab9
+img60.jpg,lab0 lab16 lab18 lab26 lab37 lab4
+img62.jpg,lab1 lab18 lab37 lab4 lab63
+img65.jpg,lab0 lab4 lab78 lab87
+img68.jpg,lab0 lab1 lab40 lab79
+img70.jpg,lab0 lab1 lab40 lab60 lab79 lab9
+img73.jpg,lab0 lab72
+img76.jpg,lab0 lab72
+img77.jpg,lab0 lab15
+img80.jpg,lab2 lab59
+img87.jpg,lab61 lab70 lab80
+img89.jpg,lab0 lab25 lab59 lab81
+img90.jpg,lab0 lab25 lab59 lab81
+img98.jpg,lab0 lab24 lab25 lab39
