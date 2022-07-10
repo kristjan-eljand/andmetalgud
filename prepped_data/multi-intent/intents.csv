@@ -1,0 +1,31 @@
+intent_id,intent
+i0,tervitus
+i1,hüvasti jätmine
+i2,teaviku kaotamine rikkumine
+i3,covid küsimused
+i4,kiirpass
+i5,raamatulaenutus
+i6,id-kaardi uuendamine
+i7,infonõustamine
+i8,teavikute laenutähtaeg pikendamine
+i9,dokumendi taotlemine
+i10,koroonapiirangud
+i11,id-kaardi väljastamine
+i12,abi küsimine
+i13,probleemist informeerimine
+i14,avalduse esitamine
+i15,luhiajalise tootamise viisa loppemine
+i16,elamisloa valjastamine
+i17,elamisloa loppemine
+i18,passi uuendamine
+i19,tänamine
+i20,kompliment botile
+i21,passi väljastamine
+i22,müra
+i23,tausta selgitamine
+i24,startup viisa loppemine
+i25,dokumendi kaotamine
+i26,kas oled robot
+i27,haiguspäevade hüvitamine
+i28,klienditeenindajale suunamine
+i29,ilm
