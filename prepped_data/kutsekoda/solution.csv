@@ -1,171 +1,88 @@
 text_id,skills
-text1,s13
-text10,s0
-text104,s4
-text11,s0
-text118,s8
-text124,s8
-text127,s40
-text13,s0
-text132,s11
-text135,s11
-text142,s22
-text143,s22
-text145,s24
-text148,s24
-text151,s16
-text156,s34
-text158,s34
-text164,s18
-text165,s18
-text175,s38
-text176,s38
-text181,s25
-text184,s7
-text186,s7
-text188,s7
-text19,s0
-text194,s12
+text0,s13 s2 s46
+text106,s22 s24
+text108,s16 s24
+text109,s16 s24
+text112,s34
+text114,s34
+text115,s39
+text124,s25 s7
+text125,s7
+text129,s45
+text132,s17
+text136,s1 s7
+text137,s1 s21 s22 s5
+text142,s1 s11 s12 s21 s26 s35 s4 s47
+text143,s0 s1 s32 s9
+text144,s0 s1 s23
+text149,s1
+text150,s1 s28
+text152,s1 s15 s28 s32
+text156,s0 s27 s41 s47 s9
+text162,s4
+text169,s0 s2 s3 s6
+text17,s0
+text171,s0 s10 s49 s6 s9
+text172,s0 s10 s2 s3
+text175,s0 s3 s6 s9
+text190,s10
+text191,s33
+text192,s33
+text193,s49
+text198,s17
 text20,s0
-text204,s29
-text205,s31
-text21,s0
-text217,s1
-text220,s1
-text225,s1
-text228,s1
-text229,s1
-text230,s1
-text233,s1
-text234,s1
-text235,s7
-text237,s7
-text240,s20
-text247,s11
+text208,s41
+text211,s3
+text214,s19 s37
+text219,s0 s13 s2 s46
+text22,s0
+text220,s0 s13 s2 s46
+text223,s3
+text226,s0 s32
+text23,s0
+text241,s36
+text242,s36
+text243,s22
+text244,s16
 text25,s0
-text252,s5
-text253,s15
-text256,s15
-text257,s15
-text258,s4
-text261,s4
-text263,s17
-text274,s45
-text275,s21
-text278,s22
-text279,s22
-text282,s23
-text285,s48
-text286,s48
-text287,s8
-text292,s19
-text293,s19
-text299,s0
-text30,s0
-text301,s0
-text304,s0
-text306,s0
-text309,s0
-text310,s0
+text264,s13
+text266,s27
+text269,s19
+text272,s21
+text277,s29 s5
+text278,s29 s5
+text283,s1 s30 s42
+text29,s0
+text295,s12 s2
+text298,s12 s2
+text31,s0
+text311,s0 s24
 text313,s3
-text323,s3
-text324,s30
-text340,s6
-text341,s6
-text345,s6
-text359,s37
-text364,s33
-text366,s33
-text368,s49
-text370,s49
-text372,s9
-text373,s9
-text374,s9
-text379,s9
-text38,s0
-text381,s9
-text382,s9
-text391,s32
-text392,s32
-text393,s27
-text394,s27
-text395,s27
-text399,s46
-text401,s28
-text403,s28
-text41,s0
-text413,s17
-text415,s2
-text416,s2
-text42,s0
-text420,s6
-text421,s49
-text422,s1
-text423,s11
-text425,s22
-text449,s3
-text452,s0
-text453,s0
-text463,s31
-text47,s50
-text49,s1
-text5,s10
-text50,s1
-text503,s27
-text510,s5
-text513,s5
-text515,s5
-text517,s1
-text518,s1
-text519,s1
-text520,s1
-text522,s1
-text523,s1
-text524,s1
-text525,s7
-text526,s7
-text529,s7
-text53,s1
-text543,s17
-text545,s17
-text548,s26
-text549,s35
-text550,s12
-text554,s12
-text558,s25
-text559,s25
-text561,s30
-text564,s45
-text569,s2
-text572,s2
-text575,s2
-text577,s0
-text578,s0
-text580,s0
-text581,s0
-text583,s0
-text587,s3
-text588,s3
-text592,s3
-text596,s42
-text602,s6
-text608,s9
-text61,s21
-text610,s9
-text612,s13
-text618,s13
-text62,s21
-text625,s29
-text629,s29
-text632,s23
-text634,s11
-text65,s43
-text7,s3
-text71,s20
-text72,s20
-text79,s20
-text80,s44
-text82,s44
-text83,s44
-text97,s26
-text98,s26
+text314,s10 s3
+text315,s10 s3
+text316,s10 s13 s3 s9
+text321,s13 s23 s9
+text323,s13 s9
+text325,s16
+text33,s0
+text35,s0
+text38,s0 s20 s7
+text39,s0
+text4,s3
+text44,s50
+text46,s1 s15
+text5,s37
+text52,s27
+text54,s16 s21 s43
+text56,s21
+text59,s15
+text61,s11 s15 s26 s7
+text7,s0
+text72,s26 s42 s5
+text78,s5
+text79,s5
+text8,s0 s50
+text86,s4
+text9,s0
+text91,s4
+text97,s18 s8
